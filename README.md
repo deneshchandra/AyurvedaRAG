@@ -1,4 +1,4 @@
-# Ayurveda RAG Project: Retrieval-Augmented Generation with LangChain, Chroma, and Ollama
+# Ayurveda RAG Project: Retrieval Augmented Generation with LangChain, Chroma, and Ollama
 
 This project is a Retrieval Augmented Generation (RAG) application, using LangChain, Chroma, and Ollama to answer questions based on embedded knowledge from Ayurveda textbook documents. It uses document embeddings stored in a Chroma vector database, enabling efficient and accurate retrieval for various health related queries. My inspiration was wanting to use RAG for my own personal use - in this case, understanding a dense Ayurveda textbook given by a friend.
 
@@ -56,7 +56,7 @@ aws configure --profile default
 
 ## Testing
 
-- Customize `testrag.py` to add or modify test cases, especially useful for validating responses on specific queries.
+- Customize `testrag.py` to add or modify test cases, especially useful for validating responses on specific Ayurveda queries.
 
 # Advanced Deployment Options
 
