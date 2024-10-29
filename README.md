@@ -1,6 +1,8 @@
-# RAG Project: Retrieval-Augmented Generation with LangChain, Chroma, and Ollama
+# Ayurveda RAG Project: Retrieval-Augmented Generation with LangChain, Chroma, and Ollama
 
-This project is a Retrieval Augmented Generation (RAG) application, using LangChain, Chroma, and Ollama to answer questions based on embedded knowledge from Ayurveda textbook documents. It uses document embeddings stored in a Chroma vector database, enabling efficient and accurate retrieval for various health related queries. 
+This project is a Retrieval Augmented Generation (RAG) application, using LangChain, Chroma, and Ollama to answer questions based on embedded knowledge from Ayurveda textbook documents. It uses document embeddings stored in a Chroma vector database, enabling efficient and accurate retrieval for various health related queries. My inspiration was wanting to use RAG for my own personal use - in this case, understanding a dense Ayurveda textbook given by a friend.
+
+![Ayurveda Textbook](https://store.ayurveda.com/cdn/shop/products/textbook-volume1.jpg?v=1595863589&width=1048)
 
 ## Project Structure
 
